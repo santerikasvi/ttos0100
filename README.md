@@ -1,7 +1,15 @@
 # TTOS0100 - Ohjelmistotestaus ja -suunnittelu
-juuh elikkäs markdownii vähä
+[juuh elikkäs wiki](https://github.com/santerikasvi/ttos0100/wiki)
 
-## Alaotsikko
+![](https://i.redditmedia.com/AmuPmkN1CFfmjzPT1roFQWnLgWzcd9cah75q4s3u_SI.jpg?w=640&s=78056e1aff390b11f383170ee79d186a)
+
+Markdowniii | hermanni | Asiat joita jonnet ei tiedä
+------------|----------|----------------------------
+juu aivan | viljami korjaa katto | Korppulevyt
+vähä tablee vähä | make keuli faijansa autolla | LP-levyt
+kivasti hmtl tästä | hieno koru | C64
+
+## pohinaa.txt
 Oltiin eilen Startup Saunalla Ens.ion (CEO) ja #Bo-Kristerin (CTO&COO) kaa,
 meillä oli tarkoitus fasilitoida GROWTH hackathonia! Ei hitto siellä oli
 pari visiotonta sähköteekkaria kolvaamassa ja piirtelemässä jotain
@@ -62,4 +70,3 @@ Model S 85D kiihdytti päästöttömästi liikkeelle. Pari pönöttäjää musti
 istuvissa tekokuitupuvuissa vaan jäi haistelemaan kumin käryä 
 parkkipaikalle, kun me häivyttiin pimenevään iltaan penetroimaan
 markkinoita...
-
