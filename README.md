@@ -1,6 +1,8 @@
 # TTOS0100 - Ohjelmistotestaus ja -suunnittelu
 [juuh elikkäs wiki](https://github.com/santerikasvi/ttos0100/wiki)
 
+[täsä tuo kurssin repo](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus)
+
 jebens
 
 ![](https://i.redditmedia.com/AmuPmkN1CFfmjzPT1roFQWnLgWzcd9cah75q4s3u_SI.jpg?w=640&s=78056e1aff390b11f383170ee79d186a)
